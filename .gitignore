@@ -1,0 +1,7 @@
+.env
+demo_video
+.llm_sessions
+.edk2_navigator_backups
+.pytest_cache
+edk2
+__pycache__
